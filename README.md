@@ -1,7 +1,9 @@
 ![22](https://github.com/user-attachments/assets/557caf61-ed65-4b45-90e2-5f6f45d86950)
 
 # face_mask_project
-
+> **Team project:** developed as a group project with
+> [Sahar Sheshah](https://github.com/Sahar-Sheshah) and
+> [Raneem Alshehri](https://github.com/raneemalshehri).
 report: https://docs.google.com/document/d/17v0cHP_IlRv-fWbKpsttJjNTIUD97mgX3k11bJdnWpQ/edit?usp=sharing
 
 dataset name: face-mask-detection.zip
